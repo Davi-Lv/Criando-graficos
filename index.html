@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@800;900&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Grafico de pizza</title>
+</head>
+
+<body>
+
+    <h1>Grafico pizza</h1>
+
+    <div class="inputs">
+        <div class="form-group">
+            <label for="valor-azul">Valor Azul</label> <br>
+            <input type="number" id="valor-azul" placeholder="Digite o valor" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label for="valor-vermelho">Valor Vermelho</label> <br>
+            <input type="number" id="valor-vermelho" placeholder="Digite o valor" class="form-control">
+        </div>
+
+        <br>
+
+        <div id="inputs-adicionais"></div>
+        <button id="adicionar-input" class="btn">Adicionar Valor</button>
+
+        <button id="gerar-grafico" class="btn">Gerar Gráfico</button>
+    </div>
+
+    <div class="canvasGrafico">
+        <canvas id="grafico"></canvas>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
