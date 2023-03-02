@@ -5,7 +5,7 @@
 
 O objetivo do projeto é aprender e utilizar algumas bibliotecas de JavaScript para criar uma aplicação. Com essa finalidade, desenvolvi uma solução que permite ao usuário visualizar de forma clara a distribuição dos dados inseridos no gráfico pizza.
 
-Embora saibamos que o gráfico pizza não é tão útil quanto outros tipos de gráficos, considero-o uma excelente ferramenta para entender o funcionamento da biblioteca chart.js, que achei muito interessante para criação de gráficos.
+Embora o gráfico pizza não ser tão útil quanto outros tipos de gráficos, considero uma excelente começo para entender o funcionamento da biblioteca chart.js, que achei muito interessante para criação de gráficos.
 
 ###### Sobre a biblioteca usada: A utilização da biblioteca chart.js permite criar um gráfico responsivo, com diversos recursos de customização, possibilitando a criação de gráficos de alta qualidade visual.
 <br/>
