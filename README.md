@@ -1,4 +1,4 @@
-# Criando graficos e aprendendo a usar bibliotecas
+# Criando graficos e aprendendo a usar algumas bibliotecas
 ###### apenas para estudo proprio (curiosidade de como funciona) :)
 
 ## O meu projeto consiste na criação de um gráfico pizza utilizando a biblioteca chart.js. O usuário tem disponível dois inputs fixos para inserir valores e pode adicionar mais inputs de forma interativa.
