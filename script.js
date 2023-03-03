@@ -1,10 +1,10 @@
+// refatorando
+
 // Selecionando elementos do DOM
 const valorAzulInput = document.getElementById('valor-azul');
 const valorVermelhoInput = document.getElementById('valor-vermelho');
-
 const gerarGraficoBtn = document.getElementById('gerar-grafico');
 const graficoCanvas = document.getElementById('grafico');
-
 const adicionarInputBtn = document.getElementById('adicionar-input');
 const inputsAdicionaisDiv = document.getElementById('inputs-adicionais');
 
